@@ -2,8 +2,20 @@ Title: Test page
 
 ----
 
-Uuid: KF70fhwNULTDRYkW
+Subheading: test subheading
+
+----
+
+Cover: 
 
 ----
 
 Text: 
+
+----
+
+Width: false
+
+----
+
+Uuid: KF70fhwNULTDRYkW
