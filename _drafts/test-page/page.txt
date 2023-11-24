@@ -2,7 +2,7 @@ Title: Test page
 
 ----
 
-Subheading: test subheading
+Subheading: change subheading
 
 ----
 
