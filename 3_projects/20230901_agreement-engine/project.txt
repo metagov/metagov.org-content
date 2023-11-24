@@ -1,0 +1,69 @@
+Title: Agreement Engine
+
+----
+
+Subheading: A tool for building net-native agreement systems
+
+----
+
+Cover: - file://Z8agrarYoylpZaf1
+
+----
+
+Website: https://law.mit.edu/pub/buildingnetnativeagreementsystems/release/1
+
+----
+
+Description: 
+
+----
+
+Participation: 
+
+----
+
+Meetings: 
+
+----
+
+Date: 2023-09-01
+
+----
+
+Projectstatus: 
+
+----
+
+Seekingparticipants: false
+
+----
+
+Links: 
+
+----
+
+Type: 
+
+----
+
+Members: 
+
+----
+
+Contact: 
+
+----
+
+Status: 
+
+----
+
+Image: - file://Z8agrarYoylpZaf1
+
+----
+
+Tags: 
+
+----
+
+Uuid: mFcaS2Qv0dgbEat3

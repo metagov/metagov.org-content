@@ -1,0 +1,55 @@
+Title: Home
+
+----
+
+Windows:
+
+- 
+  page: [ ]
+  title: Welcome
+  subheading: subtitle
+  content: |
+    The Metagovernance Project (Metagov) is an interdisciplinary research collective. We build standards and infrastructure for digital self-governance.
+    
+    Metagov lives mostly online on Slack, although we’ve had a few in-person meetups in NYC, Denver, and Amsterdam, and hope to have more.
+    
+    Email us at hello@metagov.org.
+  markdown: 'metagov is an interdisciplinary research collective. we build standards & infrastructure for digital self-governance.'
+- 
+  page:
+    - page://URRpcGnrugBUYryi
+  title: Projects
+  subheading: subheading
+  content: |
+    At the heart of Metagov is projects. Projects include software or research developed by members of Metagov and are conducted by both formal and informal working groups. The following tables provide and overview of current projects being incubated in Metagov.
+    
+    Formal working groups are groups that are supported by Metagov in the form of publication on the Metagov website, use of Metagov’s legal and financial infrastructure, and additional opportunities for cross working group coordination.
+    
+    Discussions and meetings for all projects conducted by formal working groups are open to the community and clearly signposted in the relevant community discussion forums. Community members are encouraged to join these meetings as observers. Community members will be given an opportunity to introduce themselves at the beginning of a meeting. This can be a good opportunity to express any interest you may have in participating or contributing to a project.
+  markdown: ""
+- 
+  page: [ ]
+  title: Weekly seminars
+  subheading: subheading
+  content: |
+    weekly seminar on topics in online governance
+    
+    every other weds at 12pm ET
+- 
+  page:
+    - page://ImE4FT18BLmv5ybd
+  title: Metagov Gateway
+  subheading: gateway for digital governance services
+  content: ""
+  markdown: ""
+- 
+  page:
+    - page://EcvOsbjjkptEcAz3
+  title: DAOstar
+  subheading: standards body of the DAO ecosystem
+  content: ""
+  markdown: ""
+
+----
+
+Uuid: x1TQv9lMR09NOGEB

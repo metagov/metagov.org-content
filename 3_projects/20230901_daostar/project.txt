@@ -1,0 +1,78 @@
+Title: DAOstar
+
+----
+
+Subheading: The standards body of the DAO ecosystem
+
+----
+
+Cover: - file://2p1LZ27OAfycOyHL
+
+----
+
+Website: https://daostar.org
+
+----
+
+Description: DAOstar defines standards for DAOs. The primary standard is the EIP-4824 which serves as a common interface for DAOs, akin to tokenURI for NFTs, so that DAOs of all shapes and sizes are easier to discover, more legible to their members, and more compatible with future tooling.
+
+----
+
+Participation: Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.
+
+----
+
+Meetings: Meeting info goes here
+
+----
+
+Date: 2023-09-01
+
+----
+
+Projectstatus: Active
+
+----
+
+Seekingparticipants: true
+
+----
+
+Links:
+
+- 
+  text: 🌐 daostar.org
+  url: https://daostar.org
+- 
+  text: 📝 EIP-4824
+  url: https://eips.ethereum.org/EIPS/eip-4824
+- 
+  text: ✋ Community call
+  url: ""
+- 
+  text: 🔭 Discord
+  url: ""
+
+----
+
+Type: Roundtable, Technical standard
+
+----
+
+Members: - page://UT3bsT0VlwHkVnIh
+
+----
+
+Contact: email@daostar.org
+
+----
+
+Status: Active
+
+----
+
+Uuid: EcvOsbjjkptEcAz3
+
+----
+
+Tags: 

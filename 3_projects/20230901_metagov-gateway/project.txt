@@ -1,0 +1,78 @@
+Title: Metagov Gateway
+
+----
+
+Subheading: An API gateway for digital governance services
+
+----
+
+Cover: - file://W8kSW4WdzzS16qrd
+
+----
+
+Website: 
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+----
+
+Participation: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+----
+
+Date: 2023-09-01 11:50:00
+
+----
+
+status: 
+
+----
+
+Links:
+
+- 
+  text: 🌐 daostar.org
+  url: https://daostar.org
+- 
+  text: 📝 EIP-4824
+  url: https://test.com
+
+----
+
+Type: 
+
+----
+
+Members: 
+
+----
+
+Cover: - file://W8kSW4WdzzS16qrd
+
+----
+
+About:
+
+DESCRIPTION
+DAOstar defines standards for DAOs. The primary standard is the EIP-4824 which serves as a common interface for DAOs, akin to tokenURI for NFTs, so that DAOs of all shapes and sizes are easier to discover, more legible to their members, and more compatible with future tooling.
+
+PATHS TO PARTICIPATION
+Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.
+
+----
+
+Status: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: ImE4FT18BLmv5ybd
+
+----
+
+Text: 
