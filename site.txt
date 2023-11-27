@@ -11,3 +11,24 @@ Seodescription: The Metagovernance Project is an interdisciplinary research coll
 ----
 
 Seoimage: - file://VACxzpscaru9svg4
+
+----
+
+Mainmenu:
+
+- 
+  page:
+    - page://x1TQv9lMR09NOGEB
+  seperator: 'true'
+- 
+  page:
+    - page://URRpcGnrugBUYryi
+  seperator: 'true'
+- 
+  page:
+    - page://fa788byj4UZxBgGW
+  seperator: 'true'
+- 
+  page:
+    - page://w2xjsDJvySaiAKiH
+  seperator: 'true'
