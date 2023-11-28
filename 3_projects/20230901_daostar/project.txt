@@ -18,7 +18,7 @@ Description: DAOstar defines standards for DAOs. The primary standard is the EIP
 
 ----
 
-Participation: Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.
+Participate: Join a Bi-Weekly Community Meeting: DAOstar is conducting bi-weekly meetings that are open to the public. Join to learn more about the project and other ways to get involved.
 
 ----
 
