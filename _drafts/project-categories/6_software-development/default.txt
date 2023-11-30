@@ -1,0 +1,17 @@
+Title: Software development
+
+----
+
+Uuid: 8TZXjAOPyiaycqSp
+
+----
+
+Cover: 
+
+----
+
+Text: 
+
+----
+
+Width: false
