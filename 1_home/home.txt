@@ -7,31 +7,27 @@ Windows:
 - 
   page: [ ]
   title: Welcome
-  subheading: >
-    Metagovernance, or the governance of
-    many worlds
-  content: |
+  subheading: Metagovernance, or the governance of many worlds
+  description: |
     The **Metagovernance Project** is an interdisciplinary research collective. Metagov’s mission is to describe, support, and expand self-governance on the internet. As part of our mission, we work towards exploring research, standards, and tools that can help make self-governance more feasible for those who wish to take it on. We value *openness and inclusiveness*, *rigor and ethics in research*, and *everything as an experiment*.
     
-    Check out our (link: /projects text: projects here), or learn about (link: /join text: options to participate). Email us at (email: hello@metagov.org text: hello@metagov.org).
-  markdown: 'metagov is an interdisciplinary research collective. we build standards & infrastructure for digital self-governance.'
+    Check out our (link: /projects description: projects here), or learn about (link: /join description: options to participate). Email us at (email: hello@metagov.org description: hello@metagov.org).
 - 
   page:
     - page://URRpcGnrugBUYryi
   title: Projects
   subheading: subheading
-  content: |
+  description: |
     At the heart of Metagov is projects. Projects include software or research developed by members of Metagov and are conducted by both formal and informal working groups. The following tables provide and overview of current projects being incubated in Metagov.
     
     Formal working groups are groups that are supported by Metagov in the form of publication on the Metagov website, use of Metagov’s legal and financial infrastructure, and additional opportunities for cross working group coordination.
     
     Discussions and meetings for all projects conducted by formal working groups are open to the community and clearly signposted in the relevant community discussion forums. Community members are encouraged to join these meetings as observers. Community members will be given an opportunity to introduce themselves at the beginning of a meeting. This can be a good opportunity to express any interest you may have in participating or contributing to a project.
-  markdown: ""
 - 
   page: [ ]
   title: Weekly seminars
   subheading: subheading
-  content: |
+  description: |
     weekly seminar on topics in online governance
     
     every other weds at 12pm ET
@@ -40,27 +36,25 @@ Windows:
     - page://ImE4FT18BLmv5ybd
   title: Metagov Gateway
   subheading: gateway for digital governance services
-  content: ""
-  markdown: ""
+  description: ""
 - 
   page:
     - page://EcvOsbjjkptEcAz3
   title: DAOstar
   subheading: standards body of the DAO ecosystem
-  content: ""
-  markdown: ""
+  description: ""
 - 
   page:
     - page://SiubgGbO8Le8SMuu
   title: Join
   subheading: ""
-  content: ""
+  description: ""
 - 
   page:
     - page://yqEpf1PEaDmUpoKW
   title: Support Metagov
   subheading: ""
-  content: 'Metagov is a 501(c)3 nonprofit in the US. It is possible to support Metagov in many ways, from (link: /join text: joining as a contributing member) or individual donations. These donations can be made via credit card, crypto, stocks, or a Donor Advised Fund (DAF) and are powered by The Giving Block. Donations are also able to be made through the (link: https://opencollective.com/metagov-membership/contribute text: Metagov Open Collective). All donations go towards supporting the overall operations of the organization, including our community and research efforts. We appreciate any and all support!'
+  description: 'Metagov is a 501(c)3 nonprofit in the US. It is possible to support Metagov in many ways, from (link: /join description: joining as a contributing member) or individual donations. These donations can be made via credit card, crypto, stocks, or a Donor Advised Fund (DAF) and are powered by The Giving Block. Donations are also able to be made through the (link: https://opencollective.com/metagov-membership/contribute description: Metagov Open Collective). All donations go towards supporting the overall operations of the organization, including our community and research efforts. We appreciate any and all support!'
 
 ----
 
