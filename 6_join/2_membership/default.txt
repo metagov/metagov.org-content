@@ -1,0 +1,21 @@
+Title: Membership
+
+----
+
+Subheading: Metagov's membership program
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Paid membership is NOT required to participate in Metagov's Slack, various projects, or community (which can still be accessed by filling out the <a href=\"/@/page/3IxUqbjNc4XwS902\">Join form</a>). However, as a non-profit research collective, Metagov's membership program is an experimental opportunity for the community to pool funds and devise their own programs and experiments in the spirit of self-governance. </p><p>The membership self-governs in groups of 4-5 members (circles), who are given decision-making autonomy over a specific domain ranging from operations to projects (abiding by Metagov's <a href=\"https://opencollective.com/redirect?url=https%3A%2F%2Fmetagov.pubpub.org%2Fpub%2Fcc-code-of-conduct%2Frelease%2F3\">Code of Conduct</a>). Membership governance involves:</p><p>- Co-budgeting member contributions and other forms of collective fundraising</p><p>- Codesigning governance processes and experiments for membership</p><p>- Developing new programs and collaborations that support the membership's animating purpose</p>"},"id":"998abf7b-e236-42c7-9454-37288cfebc25","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Membership levels"},"id":"35a5b2ab-55f9-4d15-b85f-74ce9e9fd2c9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Membership payments and governance are managed via <a href=\"https://opencollective.com/metagov-membership\">Metagov's Membership Open Collective</a>. <em>Note:</em><strong> </strong><em>No contributions to the membership program are tax deductible. For more ways to donate to Metagov, visit our </em><a href=\"/@/page/yqEpf1PEaDmUpoKW\"><em>support page</em></a><em>.</em></p>"},"id":"84ebc439-4d7b-4de3-bef4-dbae6c426803","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Metagovernor membership ($4+ monthly)"},"id":"20c8fb2e-dfb2-4178-a361-d8d50e4d53ea","isHidden":false,"type":"heading"},{"content":{"text":"<p>Metagovernors are able to join membership circles and make decisions about how membership funds are governed.</p>"},"id":"3e0c4bbb-2293-4569-a227-368e06cb7055","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Supporter membership ($8+ monthly)"},"id":"ef4e5a18-12fd-40c5-8b07-7e8f4613b937","isHidden":false,"type":"heading"},{"content":{"text":"<p>Supporters join the membership as a passive, non-decision-making member and receive membership benefits. Paid work for Metagov or an in-kind contribution agreement may entitle you to enroll in the membership as a Supporter and have your membership annually reimbursed by Metagov.</p>"},"id":"3b8edbf2-a271-45c3-b601-92224bfad2e7","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"General supporter on <a href=\"https://opencollective.com/metagov-membership/contribute/membership-supporter-68307/checkout?interval=month&amp;amount=20\">Open Collective</a>"},"id":"e95266d7-5b5c-4831-9a03-6a323fc129f1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Are you excited to support community self-governance and experimentation but don’t want to commit to a monthly membership? You can also make a general contribution to the Metagov Membership without enrolling in the membership. Contributions fund and sustain governance experiments and community operations as governed by Metagovernors.</p>"},"id":"023195e2-41ba-4d5b-b914-691120a8b0fd","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: scaMxqKSjNVxf8vo

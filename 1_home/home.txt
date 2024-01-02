@@ -7,30 +7,54 @@ Windows:
 - 
   page: [ ]
   title: Welcome
-  subheading: Metagovernance, or the governance of many worlds
+  subheading: >
+    metagovernance, or the governance of
+    many worlds
   description: |
-    The **Metagovernance Project** is an interdisciplinary research collective. Metagov’s mission is to describe, support, and expand self-governance on the internet. As part of our mission, we work towards exploring research, standards, and tools that can help make self-governance more feasible for those who wish to take it on. We value *openness and inclusiveness*, *rigor and ethics in research*, and *everything as an experiment*.
+    The **Metagovernance Project** (Metagov) is an interdisciplinary research collective. As a vibrant community, our mission is to describe, support, and expand self-governance on the internet. We produce research outputs (academic papers), develop standards to increase technical interoperability, develop infrastructure and software products that help streamline the processes of governance, and maintain a global network of collaborators across industry, academia, and civil society.
     
-    Check out our (link: /projects description: projects here), or learn about (link: /join description: options to participate). Email us at (email: hello@metagov.org description: hello@metagov.org).
+    Online governance is evolving. The widespread failures of accountability among large tech companies have spurred the rise of communities that seek to distribute power and control more widely, from user-controlled social media networks to cooperatively-owned gig platforms. The vision of Metagov is to support this governance layer for the internet with an open and interoperable ecosystem of tools and resources through which communities and organizations can organize and govern themselves.
 - 
   page:
     - page://URRpcGnrugBUYryi
   title: Projects
-  subheading: subheading
-  description: |
-    At the heart of Metagov is projects. Projects include software or research developed by members of Metagov and are conducted by both formal and informal working groups. The following tables provide and overview of current projects being incubated in Metagov.
-    
-    Formal working groups are groups that are supported by Metagov in the form of publication on the Metagov website, use of Metagov’s legal and financial infrastructure, and additional opportunities for cross working group coordination.
-    
-    Discussions and meetings for all projects conducted by formal working groups are open to the community and clearly signposted in the relevant community discussion forums. Community members are encouraged to join these meetings as observers. Community members will be given an opportunity to introduce themselves at the beginning of a meeting. This can be a good opportunity to express any interest you may have in participating or contributing to a project.
+  subheading: >
+    directory of all metagov owned,
+    sponsored, and affiliated projects
+  description: ""
 - 
-  page: [ ]
+  page:
+    - page://KF70fhwNULTDRYkW
   title: Weekly seminars
-  subheading: subheading
+  subheading: >
+    seminars every other weds at 12pm ET
+    (GMT-4)
+  description: 'The **Metagovernance Seminar** invites individuals working in online governance to present their work to a community of other researchers and practitioners. Topics of the seminar include, but are not limited to, computational tools for governance, governance incidents and case studies from online communities, topics in cryptoeconomics, and the design of digital constitutions.'
+- 
+  page:
+    - page://mG9bibEohGlZYIvR
+  title: Events
+  subheading: calendar of public events
+  description: ""
+- 
+  page:
+    - page://SiubgGbO8Le8SMuu
+  title: Join
+  subheading: join the metagov community
   description: |
-    weekly seminar on topics in online governance
+    Metagov is host to a community of research and practice gathered around Metagov’s mission is to describe, support, and expand self-governance on the internet.
     
-    every other weds at 12pm ET
+    - Join the community Slack by (link: https://metagov.typeform.com/metagov-survey text: filling out this survey)
+    - Consider contributing financially as a (link: page://scaMxqKSjNVxf8vo text: member) or donating as a (link: page://yqEpf1PEaDmUpoKW text: supporter)
+    - View the current (link: page://w2xjsDJvySaiAKiH text: Community Directory)
+- 
+  page:
+    - page://yqEpf1PEaDmUpoKW
+  title: Support Metagov
+  subheading: >
+    support non-profit research on
+    self-governance
+  description: 'Metagov is a 501(c)3 nonprofit in the US. It is possible to support Metagov in many ways, from (link: /join description: joining as a contributing member) or individual donations. These donations can be made via credit card, crypto, stocks, or a Donor Advised Fund (DAF) and are powered by The Giving Block. Donations are also able to be made through the (link: https://opencollective.com/metagov-membership/contribute description: Metagov Open Collective). All donations go towards supporting the overall operations of the organization, including our community and research efforts. We appreciate any and all support!'
 - 
   page:
     - page://ImE4FT18BLmv5ybd
@@ -43,18 +67,6 @@ Windows:
   title: DAOstar
   subheading: standards body of the DAO ecosystem
   description: ""
-- 
-  page:
-    - page://SiubgGbO8Le8SMuu
-  title: Join
-  subheading: ""
-  description: ""
-- 
-  page:
-    - page://yqEpf1PEaDmUpoKW
-  title: Support Metagov
-  subheading: ""
-  description: 'Metagov is a 501(c)3 nonprofit in the US. It is possible to support Metagov in many ways, from (link: /join description: joining as a contributing member) or individual donations. These donations can be made via credit card, crypto, stocks, or a Donor Advised Fund (DAF) and are powered by The Giving Block. Donations are also able to be made through the (link: https://opencollective.com/metagov-membership/contribute description: Metagov Open Collective). All donations go towards supporting the overall operations of the organization, including our community and research efforts. We appreciate any and all support!'
 
 ----
 

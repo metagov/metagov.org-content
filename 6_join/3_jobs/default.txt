@@ -1,0 +1,21 @@
+Title: Jobs
+
+----
+
+Subheading: Open roles at Metagov
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>- <a href=\"/@/page/vWZZ9jBCImKeLAQ3\">Executive Director</a><br>- <a href=\"/@/page/dFCymXIpdowAehVU\">Standards lead / senior engineer</a> (DAOstar)<br>- <a href=\"/@/page/Ea2m0lqIsuJnFrzT\">Community lead, Asia</a> (DAOstar)<br>- <a href=\"/@/page/b6Z7VFzAv5Zmxkqa\">Intern</a></p>"},"id":"5560b465-c557-41e8-b770-7d78dffca09d","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: qJ4agwH8WAUIpXR9

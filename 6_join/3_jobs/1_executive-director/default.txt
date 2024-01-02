@@ -1,0 +1,21 @@
+Title: Executive Director
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>The executive director of Metagov has final responsibility for executing the mission of the organization, hiring and recruiting personnel for that purpose, curating related projects, advising the board on strategic direction, and ensuring the financial sustainability of the organization.</p><p>Other responsibilities include:</p><p>- Oversee Metagov’s vibrant community, research activities, and operations</p><p>- Communicate the vision and purpose of Metagov</p><p>- Initiate, design, conduct, and potentially lead projects as needed, whether software, research, advocacy, or events</p><p>- Secure the sustainability and growth of the organization through fundraising, grant-writing, and other revenue development</p><p>- Initiate and ideate new projects in collaboration with Metagov’s research directors and community</p><p>- Work with operations lead to define accounting, ops support, fiscal sponsorship, and other avenues of support</p><p>- Recruit, hire, and manage staff, or delegate such work</p><p>- Sign the checks, or delegate such work</p><p>- Report to the board</p><p>There is no particular mold or type of executive director that we are looking for. You can be an established nonprofit leader, entrepreneur, or researcher. Or you might be a promising graduate student or postdoc. You may come from computer science and tech, or from law, or from the social sciences. The most important thing is your vision for what Metagov can be and for what it can do.</p>"},"id":"5a030321-2121-4043-87c6-b91e7957b471","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Details"},"id":"bd00d7bf-e71a-41f1-a6ca-d5e52eec4f79","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Compensation:</strong> $60 USD / hour, or per specific grants</p><p><strong>Duration: </strong>expected 3+ years</p><p>The ED role is a demanding but high-reward role. The expectation is that on average 15-20 hours per week will be spent on “executive director” duties (see above), with remaining time leading or contributing to particular grant-funded activities. Additional compensation is tied to grant performance and availability. While the role can be and has been held simultaneously with other fellowships and research roles whose work substantially overlaps with Metagov’s mission, the ED role should be considered a full-time job in terms of responsibility. Note that the role requires substantial travel to conferences and meetings.</p>"},"id":"d77efb7d-2e18-4553-b25f-d6ba596ea4b0","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Application"},"id":"808d5d9e-b81e-41fc-ba93-4e4123d8828d","isHidden":false,"type":"heading"},{"content":{"text":"<p>To apply, please fill out the following form: <u><a href=\"https://forms.gle/HZ4bWvZMKCzgaTAj9\">https://forms.gle/HZ4bWvZMKCzgaTAj9</a></u>.</p><p>We encourage applicants to first read the <u><a href=\"https://docs.google.com/document/d/1AaHcs1TuHldId5KI7zsU_HgVY139AymOxEdEfuXz0b4/edit#heading=h.wwhroj4r58k9\">extended “About Metagov” document</a></u> to get more context on Metagov’s history and current operations.</p>"},"id":"4280d9aa-7a7c-4025-81f4-2cd35ea54d98","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Timeline"},"id":"9d704835-9f0c-40c7-89e9-038d68b42b09","isHidden":false,"type":"heading"},{"content":{"text":"<p>The application is open until the position is filled. The board will begin evaluating applicants on September 6, 2023. Other applicants will be evaluated on a rolling basis.</p><p>We encourage prospective applicants to reach out to one of the board members either via email to <a href=\"mailto:hello@metagov.org\">hello@metagov.org</a> or on the Metagov Slack with any questions.</p>"},"id":"2d7353d2-43a6-4c64-8239-1f6f2a2e8d65","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: vWZZ9jBCImKeLAQ3

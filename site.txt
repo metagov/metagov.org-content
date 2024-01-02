@@ -32,3 +32,14 @@ Mainmenu:
   page:
     - page://w2xjsDJvySaiAKiH
   seperator: 'true'
+
+----
+
+Text:
+
+- 
+  content:
+    text: '<p>The&nbsp;<a href="https://researchseminars.org/seminar/Metagov"><strong>Metagovernance Seminar</strong></a>&nbsp;invites individuals working in online governance to present their work to a community of other researchers and practitioners. Topics of the seminar include, but are not limited to, computational tools for governance, governance incidents and case studies from online communities, topics in cryptoeconomics, and the design of digital constitutions.</p><p>The seminar is intended for researchers and practitioners in online governance, broadly defined. We welcome guests and curious members of the public, but please note that the discussion is moderated.</p><p>The seminar is planned through the #seminar-planning channel on the Metagov Slack. Participate by <a href="/@/page/SiubgGbO8Le8SMuu">joining our community</a>.</p>'
+  id: f550da3c-b32c-438c-849e-969e3b5f03bc
+  isHidden: false
+  type: text

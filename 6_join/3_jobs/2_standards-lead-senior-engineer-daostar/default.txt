@@ -1,0 +1,21 @@
+Title: Standards lead / senior engineer (DAOstar)
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p><strong>Location:</strong> Remote<br><strong>Status:</strong> Part-time<br><strong>Pay:</strong> $50 per hour or higher, depending on experience</p><p>We are looking for a technical standards lead / senior engineer to join our team. The ideal candidate will have experience in a number of core engineering tasks (backend, frontend, devops) as well as experience in blockchain technology and especially DAOs. They will be responsible for contributing to the development and implementation of EIP-4824, maintaining the factory contracts, implementing new features to the backend, as well as new standards projects related to DAOs.</p><p>The person will oversee and actively participate in the standards work that the organization is doing, including participating in, supporting, and sometimes leading working groups composed of other members of DAOstar and the DAO ecosystem. They will be responsible for developing new technical standards, streamlining processes to improve the adoption of existing standards like EIP-4824, and deciding the development focus of DAOstar.</p><p>You might be a fit for this role if you have:</p><p>- 3-4 years experience in software engineering</p><p>- Experience shipping software or managing teams to do so</p><p>- At least 1-2 years experience with DAOs and related decentralized social technologies</p><p>- A demonstrated commitment to open-source and public good</p><p>If you are interested, contact <u><a href=\"mailto:josh@daostar.org\">josh@daostar.org</a></u> and <u><a href=\"mailto:isaac@daostar.org\">isaac@daostar.org</a></u> for a CV and a brief message introducing yourself and explaining your interest.</p>"},"id":"8a124668-feba-4f43-b4e4-7c7f331daece","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: dFCymXIpdowAehVU

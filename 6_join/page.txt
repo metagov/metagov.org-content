@@ -2,7 +2,7 @@ Title: Join
 
 ----
 
-Uuid: SiubgGbO8Le8SMuu
+Subheading: How to get involved with Metagov
 
 ----
 
@@ -10,8 +10,12 @@ Cover:
 
 ----
 
-Text: 
+Text: [{"content":{"text":"<p>Metagov is host to a community of research and practice gathered around Metagov’s mission is to describe, support, and expand self-governance on the internet.</p><p>Our community discusses ideas and recent research in the field of online governance, hosts seminars featuring internal participants and external guests, convenes space for governance experiments, collaborates with other organizations, publishes research through open access publications and newsletters, and does so guided by our <a href=\"https://metagov.pubpub.org/pub/cc-code-of-conduct\">code of conduct</a>.</p>"},"id":"e3b9ac31-b10c-44dd-bb40-9bc1e5d85143","isHidden":false,"type":"text"}]
 
 ----
 
 Width: false
+
+----
+
+Uuid: SiubgGbO8Le8SMuu

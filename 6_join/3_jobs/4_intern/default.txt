@@ -1,0 +1,21 @@
+Title: Intern
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p><strong>Location:</strong> Remote<br><strong>Status:</strong> Part-time</p><p><em>Imagine an Internet where democracy is at least as available as autocracy.</em> The Metagovernance Project is building a governance layer for the Internet—an ecosystem of interoperable community-building tools that work across a range of digital platforms, from social networks to online games to blockchains.</p><p>The Metagovernance Project offers paid and unpaid internships on a rolling basis to qualified students and recent graduates. Internships are typically structured as research projects with a paper, blog post, and/or code repo as the final deliverable. Past internship projects have included constructing a library of computational legal contracts, creating a modular political system in Minecraft, modeling YC’s SAFE agreements as smart contracts, and creating a tradeable token based on Twitter likes.</p><p>You may be a fit for this role if you have…</p><p>- A background in computer science and/or a social science such as economics or political science.</p><p>- Demonstrated interest in online community, governance, political theory, economics, or law.</p><p>- The ability to work independently and reach key milestones with minimal supervision.</p><p>- A mission-driven focus on having a significant impact on the world through technological advancement, complemented by a stubborn optimism for the future.</p><p><strong>How to apply for this position:</strong></p><p>Submit a CV and a short message explaining your interest to <u><a href=\"mailto:hello@metagov.org\">hello@metagov.org</a></u>. You may also provide a link to a web page, git repo, or other portfolio of past work.</p>"},"id":"e85eecb3-3bc5-471b-9f3a-4113cc00231f","isHidden":false,"type":"text"}]
+
+----
+
+Width: false
+
+----
+
+Uuid: b6Z7VFzAv5Zmxkqa
