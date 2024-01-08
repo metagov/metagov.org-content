@@ -26,10 +26,6 @@ Mainmenu:
   seperator: 'true'
 - 
   page:
-    - page://fa788byj4UZxBgGW
-  seperator: 'true'
-- 
-  page:
     - page://w2xjsDJvySaiAKiH
   seperator: 'true'
 
